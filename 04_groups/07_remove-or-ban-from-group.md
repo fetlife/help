@@ -1,6 +1,6 @@
 # How do I remove or ban a memberfrom my group?
 
-If you are a group leader, there are two ways you can ban a memberfrom your group.
+If you are a group leader, there are two ways you can ban a member from your group.
 
 The first option is to click on the "Members" tab in the group and search for the memberyou want to remove or ban from the group.
 
