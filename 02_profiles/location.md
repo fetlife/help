@@ -1,0 +1,7 @@
+### My location isn't on your list. What do I do?
+
+Currently, the list of locations only includes actual cities. Please don't shoot the messenger because that gets messy. We realize this is annoying, and we need to fix it. 
+
+However, we cannot fix the problem without overhauling the whole thing, so in the meantime, if your location is not listed, please pick the closest city to you until we can get and integrate a more thorough list of locations. 
+
+Sorry for the inconvenience. :(
