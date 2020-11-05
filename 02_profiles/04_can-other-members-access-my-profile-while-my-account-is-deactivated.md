@@ -1,33 +1,26 @@
-# Can other members access my profile while my account is deactivated?
+# Can other members see my profile while my account is deactivated?
 
-No, other members can’t access your profile while your account is deactivated.
+No, other members can’t see your profile while your account is deactivated.
 
 While your account is deactivated, other FetLifers can't:
 
-- Access your profile, including but not limited to your:
-  - Main profile page
-  - Picture and video galleries and individual picture and video pages
-  - Writing galleries and individual writing
-  - Latest Activity (including status updates)
-  - Friends, followers, and following lists
-- Start a new conversation with you or respond to an existing one-on-one conversation with you
-- See your latest activity, group activity, etc. on the home page
-- Find you in search results under the following search results tabs:
-  - Kinksters
-  - Pictures
-  - Videos
-  - Writings
-- See you in either the fetishes or places sections
+Specifically, while an account is deactivated, other members:
+- Cannot see the profile, including but not limited to:
+     - Main profile page
+     - Pictures, Videos, or Writings 
+     - Past activity
+     - Friends, Followers, or Following lists
+- Cannot start a new private message with a deactivated profile
+- Cannot see any of your activity on their main feed
+- Cannot find you in search results
 
-Keep in mind that while deactivated, the following will still be accessible:
 
-- Groups that you are the owner or a leader of
-- Group posts you've made
-- Events you've posted
-- Private messages you've sent to others (but they can't be responded to)
-- Comments you've made in groups and on other people's pics, vids, writings, etc.
+While other members cannot see a deactivated profile, if you deactivate your profile, they can still see:
+- Groups that you own or moderate
+- Events you've created
+- Private messages you've sent to them (but they won’t be able to respond)
+- You will still be seen in:
+     - Groups you are currently a member of
+     - An active member’s list of friends, followers, and following.
+     - Comments you've made in groups, on other member’s Pictures, Videos, Writings, and other member’s Status Updates.
 
-And you will still be listed in:
-
-- Group Members, for groups you are currently a member of
-- Friends, followers, and following lists, of active members
