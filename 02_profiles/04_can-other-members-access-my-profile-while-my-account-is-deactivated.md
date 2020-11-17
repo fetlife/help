@@ -2,8 +2,6 @@
 
 No, other members can’t see your profile while your account is deactivated.
 
-While your account is deactivated, other FetLifers can't:
-
 Specifically, while an account is deactivated, other members:
 - Cannot see the profile, including but not limited to:
      - Main profile page
