@@ -18,5 +18,5 @@ For the third method, follow these steps to add to or edit your About Me section
 3. Select the tab titled "About You” and get busy typing!
 4. Once you have everything the way you want it, submit the form, and presto, the text will appear on your profile.
 
-Lather, rinse, and repeat as many times as you’d like until you’re satisfied.
+Lather, rinse, and repeat as many times as you’d like until you’re satisfied!
 
