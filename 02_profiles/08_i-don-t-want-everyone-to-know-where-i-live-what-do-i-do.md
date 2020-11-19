@@ -2,7 +2,7 @@
 
 We recommend you choose a location that is in your general area, but not specific to your current location.
 
-If you really want to be off the radar, you can always just specify your country as "Antarctica”. There are more kinksters than you would think of living in Antarctica. 
+If you really want to be off the radar, you can always just specify your country as "Antarctica”. There are more kinksters living in Antarctica than you'd think!
 
 You can update your location [here](https://fetlife.com/settings/profile).
 
