@@ -2,7 +2,7 @@
 
 Yes, FetLife allows members to have multiple profiles. 
 
-For example, MeanUberDom might have a secret fantasy about being spanked and doesn't feel comfortable letting all his friends know - so he creates a secondary (also called an alternate) profile called PlsSpankMeMommy to explore this side of his sexuality. 
+For example, MeanUberDom might have a secret fantasy about being spanked and doesn't feel comfortable letting all his friends know - so he creates a secondary (also called an alternate) profile called PlsSpankMeMommy to explore this other side of his sexuality. 
 
 His pictures must still be of or by him but they don’t need to be as identifiable. The information about age and such may be changed to help him feel comfortable and not judged by others. This is one type of secondary profile allowed on FetLife.
 
