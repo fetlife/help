@@ -12,7 +12,7 @@ Alternatively, you can delete your profile [here](https://fetlife.com/deactivate
 
 When you set your profile for deletion, it becomes hidden and is put into the queue to be deleted in seven days. Changed your mind? No worries! Just log back into FetLife anytime in the next seven days. Your profile will become active again.
 
-Note: Deleting your profile is permanent.  Once the seven-day grace period has passed, there is no way to retrieve a profile.
+_Note: Deleting your profile is permanent.  Once the seven-day grace period has passed, there is no way to retrieve a profile._
 
 Just remember, we will always be here for you! Don't hesitate to rejoin in the future.
 
