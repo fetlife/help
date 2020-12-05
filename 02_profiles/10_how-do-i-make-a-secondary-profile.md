@@ -1,7 +1,7 @@
 # How do I make a secondary profile?
 
 Simple! You make it the same way you made your first profile. If you're already logged in to a profile, you'll need to follow these steps:
-1. Select the hamburger menu (the icon with three horizontal lines) at the top right-hand corner of the page.
+1. Select the hamburger menu (the icon with three horizontal lines) at the top right corner of the page.
 2. Select "Logout" in the dropdown menu.
 3. Select "Join FetLife.”
 
