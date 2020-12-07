@@ -3,7 +3,7 @@
 Simple! You make it the same way you made your first profile. If you're already logged in to a profile, you'll need to follow these steps:
 1. Select the hamburger menu (the icon with three horizontal lines) at the top right corner of the page.
 2. Select "Logout" in the dropdown menu.
-3. Select "Join FetLife.”
+3. Select "Join FetLife” and follow the prompts.
 
 Please note that for each profile you create, FetLife requires a unique:
 - Email address
