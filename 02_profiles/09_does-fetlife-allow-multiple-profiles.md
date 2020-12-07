@@ -14,4 +14,4 @@ There are some types of alternate profiles that we do not allow. For example:
      - Bypass a sitewide time out
 - Impostors - someone who is posing as another person. 
 
-If you're ready to make a secondary profile and need help, check out [How do I make a secondary profile?](https://fetlife.com/help/how-do-i-make-a-secondary-profile).
+If you're ready to make a secondary or alternate profile and need help, check out "[How do I make a secondary profile?](https://fetlife.com/help/how-do-i-make-a-secondary-profile)".
