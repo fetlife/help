@@ -8,5 +8,4 @@ Simple! You make it the same way you made your first profile. If you're already 
 Please note that for each profile you create, FetLife requires a unique:
 - Email address
 - Nickname
-- Phone number (if using SMS verification) or
-- Email invitation from a past or current FetLife Supporter
+- Phone number (if using SMS verification) or an email invitation from a past or current FetLife Supporter.
