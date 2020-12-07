@@ -6,5 +6,5 @@ However, we cannot fix the problem without overhauling the whole thing, so in th
 
 Sorry for the inconvenience. :(
 
-[Where in the World is Carmen Sandiego?](http://en.wikipedia.org/wiki/Carmen_Sandiego) Do I miss that game!! 
+[Where in the World is Carmen Sandiego?](http://en.wikipedia.org/wiki/Carmen_Sandiego) I do miss that game!! 
 
