@@ -2,7 +2,7 @@
 
 You know people want to know about you - come on, who wouldn’t?
 
-There are three ways to add to your About Me section.
+There are three ways to edit or add an introduction to the About Me section of your profile.
 
 Follow these steps to add to or update your About Me section.
 1. Go to your profile page.
