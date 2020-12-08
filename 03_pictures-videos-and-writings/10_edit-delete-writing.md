@@ -1,5 +1,18 @@
 # How do I edit or delete my Writing?
 
-Got some second thoughts on that piece of prose you posted? All it takes to edit or delete it is a few simple steps. Click on the writing you want to edit or delete. Look on the right side of the page. You'll see a text link to edit the writing and just below that, another one to delete the writing. Just click on the appropriate link, confirm you want it saved or deleted, and it will be done.
+How do I edit or delete my Writings?
+Go to your Writing. Select the three dots menu located at the top right of the Writing.
+ 
+Select “Edit” to:
 
-If you want to add extra features to your writings, such as underlines, bold, different sized fonts, etc., check out the formatting guidelines at [https://fetlife.com/formatting_guidelines](https://fetlife.com/formatting_guidelines "").
+- Edit your writing itself
+- Change the title
+- Add or remove tags
+- Change the writing’s privacy settings
+
+Note: If you want to add extra features to your Writings, such as underlines, bold, different sized fonts, etc., check out our [formatting guidelines](https://fetlife.com/formatting_guidelines).
+
+Select “Close Comments” to remove the option for people to comment on that Writing. Reopening comments can be selected from the same menu when you’re ready to turn them back on! You can also do this by selecting your Writing from your Activity Feed.
+
+Select “Delete” to delete your Writing.
+
