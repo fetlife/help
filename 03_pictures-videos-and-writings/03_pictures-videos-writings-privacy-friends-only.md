@@ -1,7 +1,17 @@
-# Can I set my Pictures, Videos, or Writings to Friends only?
+# How do I delete or edit the settings and privacy options for my picture or video? 
 
-Yes, you can! If you would like to make any of the Pictures, Videos or Writings you have uploaded here to FetLife more private, it's easy as pie and pie is good!
+Go to the picture or video you want to edit or delete.  Select the “Options” menu link (beneath the caption). 
 
-Anything you upload to FetLife defaults to the privacy setting "FetLifers" meaning everyone on FetLife who stumbles upon it can see it, unless you select the Privacy setting before uploading it.
+Select “Edit” if you want to:
+- Update the caption
+- Add or remove tags
+- Change your privacy options
 
-If you would like to change it so that only those in your list of friends can see the picture, video or writing, look over on the right hand side partway down the page to find "PRIVACY" Click on text link "edit" and select "Just Friends" and now only those who are on your friend's list can see it!
+Select “Set as Avatar” if you’d like to make the picture your main profile picture.
+
+Select “Close Comments” to remove the option for people to comment on that picture. Reopening comments can be selected from the same menu when you’re ready to turn them back on!
+
+Select “Delete” to delete your picture.  (If the picture is currently your Avatar (profile picture), you will need to change your avatar to a different picture before you can delete it.)
+
+Nifty, eh? We say “eh” because we’re Canadian, and that's how we roll...
+
