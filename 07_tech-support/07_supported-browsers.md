@@ -8,8 +8,6 @@ To optimally browse FetLife we highly recommend using our supported browsers:
 * Safari 8+
 * Edge 12+
 * Firefox 42+
-* Internet Explorer 11 (will be retired September 1st, 2021, read more about it [here](https://fetlife.com/groups/311/posts/17409706))
-* Android Browser 4.4+
 
 #### What if my current browser is not on the list above?
 
@@ -28,7 +26,7 @@ Each browser does upgrading differently:
 * [Safari](https://support.apple.com/en-us/HT204416)
 * [Edge](https://docs.microsoft.com/en-us/deployedge/microsoft-edge-sysupdate-windows-updates)
 * [Firefox](https://support.mozilla.org/en-US/kb/update-firefox-latest-release)
-* Internet Explorer: We recommend switching to any of the browsers above.
+* Internet Explorer: We recommend switching to any of the browsers above. (read [here](https://fetlife.com/groups/311/posts/17409706) why)
 * Android Browser: We recommend switching to [Google Chrome](https://play.google.com/store/apps/details?id=com.android.chrome&hl=en)
 
 #### What about my bookmarks, history, etc.?
