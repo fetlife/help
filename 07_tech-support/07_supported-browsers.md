@@ -8,6 +8,7 @@ To optimally browse FetLife we highly recommend using our supported browsers:
 * Safari 8+
 * Edge 12+
 * Firefox 42+
+* Android Browser 4.4+
 
 #### What if my current browser is not on the list above?
 
