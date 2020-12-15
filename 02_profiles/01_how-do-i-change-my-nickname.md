@@ -6,4 +6,4 @@ You can update your nickname once every 28 days by:
 2. Selecting “Change” next to your nickname
 3. Filling out and submitting the form
 
-Alternatively, you can go directly to the form here: https://fetlife.com/settings/account/nickname
+Alternatively, you can go directly to the form here: https://fetlife.com/settings/account/nickname 
