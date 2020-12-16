@@ -1,4 +1,4 @@
-# How do I edit or add an introduction to the About Me section of my profile?
+# How do I edit the About Me section of my profile?
 
 - Go to [your profile settings](https://fetlife.com/settings/profile/about)
 - Select the 'About Me' tab on the left
