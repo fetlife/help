@@ -1,5 +1,5 @@
 # How do I reactivate my profile?
 
-To reactivate your profile, all you need to do is [log back into](https://fetlife.com/login) your account. The first thing you'll see is a box asking if you’re ready to reactivate your profile. If you are, select “Reactivate My Account” and you're in!
-
-*Note: You won’t automatically be reactivating your account by logging back in. You must confirm that you want to reactivate your account first.*
+- Easy Peasy! Start by [logging back into](https://fetlife.com/login)your account. 
+- You'll be asked if you want to reactivate your profile. 
+- Select “Reactivate My Account” and your profile will be reactivated!
