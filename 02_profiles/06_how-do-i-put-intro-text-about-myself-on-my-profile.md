@@ -1,22 +1,9 @@
 # How do I edit or add an introduction to the About Me section of my profile?
 
-You know people want to know about you - come on, who wouldn’t?
-
-There are three ways to edit or add an introduction to the About Me section of your profile.
-
-Follow these steps to add to or update your About Me section.
-1. Go to your profile page.
-2. Next to the words, “About me” you'll see a link - “(edit)”.
-3. Select "(edit)" and start typing!
-4. Once you have everything the way you want it, submit the form, and just like magic, the text will appear on your profile.
-
-For the second method, follow these steps to add to or edit your About Me section.
-1. Select the hamburger menu (the icon with three horizontal lines) at the top right-hand corner of the page.
-2. Select "Edit Profile" in the dropdown menu.
-3. Select the tab titled "About You” and get busy typing!
-4. Once you have everything the way you want it, submit the form, and presto, the text will appear on your profile.
-
-Finally, you can update your About Me section [here](https://fetlife.com/settings/profile/about).
+- Go to [your profile settings](https://fetlife.com/settings/profile/about)
+- Select the 'About Me' tab on the left
+- Type or edit text in the text box
+- Submit the form and your new About Me will appear on your profile.
 
 Lather, rinse, and repeat as many times as you’d like until you’re satisfied!
 
