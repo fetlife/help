@@ -1,13 +1,9 @@
 # How do I delete my account/profile?
 
-You can delete your account at any time by:
+You can delete your account at any time by going to the delete or deactivate my profile section in your account settings [here.](https://fetlife.com/deactivate?type=permanently%20delete)
 
-1. Visiting https://fetlife.com/settings/account
-2. Selecting "Deactivate or Delete my Account" on the right side of the page
-3. Selecting "Delete" from the drop-down box, filling in your password, and submitting the form
+When you set your profile to delete, it is removed from the website and put into our deletion queue for all of your data to be completely deleted in seven days. 
 
-Alternatively, you can go directly to the form here: https://fetlife.com/deactivate?type=permanently%20delete
+Changed your mind? No worries! Just log back into FetLife anytime in the next 7 days. You will be asked if you wish to reactivate and once you do your account will move out of the delete queue and be fully restored!
 
-When you set your profile to delete, it is deactivated and put into the queue to be deleted in seven days. Change your mind? No worries! Just log back into FetLife anytime in the next 7 days. Your profile will activate and move out of the delete queue!
-
-Just remember, we will always be here for you. Don't hesitate to re-join in the future.
+Just remember, we will always be here for you <3. Don't hesitate to re-join us again in the future!
