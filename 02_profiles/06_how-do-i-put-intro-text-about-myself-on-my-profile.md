@@ -1,9 +1,8 @@
 # How do I edit the About Me section of my profile?
 
-- Go to [your profile settings](https://fetlife.com/settings/profile/about)
-- Select the 'About Me' tab on the left
-- Type or edit text in the text box
-- Submit the form and your new About Me will appear on your profile.
+You can edit the About Me section of your profile at any time by:
 
-Lather, rinse, and repeat as many times as you’d like until you’re satisfied!
-
+- Going to [your profile settings](https://fetlife.com/settings/profile/about)
+- Selecting the About Me tab on the left side of the page
+- Editing the text
+- Submitting the form
