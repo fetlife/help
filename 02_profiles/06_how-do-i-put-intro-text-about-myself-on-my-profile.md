@@ -1,12 +1,9 @@
-# How do I put intro text about myself on my profile?
+# How do I edit the "About Me" section of my profile?
 
-You know people want to know about you - come on, who wouldn't?
+You can edit the "About Me" section of your profile at any time by:
 
-To add text to your profile:
+1. Visiting https://fetlife.com/settings/profile
+2. Selecting the "About Me" tab
+3. Filling out and submitting the form 
 
-1. Click on the hamburger menu (icon with three horizontal lines) on the far right of FetLife's navigation bar.
-2. Click "Edit Profile" in the pop out menu.
-3. Click the tab titled "About You".
-4. Just start typing away. Once you have everything the way you want it, click the "Update" button and presto, the text will appear on your profile.
-
-Rinse and repeat if you want to edit the text.
+Alternatively, you can go directly to the form here: https://fetlife.com/settings/profile/about
