@@ -7,5 +7,5 @@ You can edit your Writing at any time by:
 - Selecting "Edit" (and making your changes) or "delete."
 - Submit the form to save your changes.
 
-Note: You can also add or remove tags, change the privacy settings, close comments, or delete the Writing from the three dots menu
+Note: You can also add or remove tags, change the privacy settings, close comments, or delete the Writing from the three dots menu.
 
