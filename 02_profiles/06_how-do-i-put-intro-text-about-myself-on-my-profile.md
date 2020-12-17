@@ -1,6 +1,6 @@
-# How do I edit the About Me section of my profile?
+# How do I edit the "About Me" section of my profile?
 
-You can edit the About Me section of your profile at any time by:
+You can edit the "About Me" section of your profile at any time by:
 
 - Visiting https://fetlife.com/settings/profile
 - Selecting the "About Me" tab
