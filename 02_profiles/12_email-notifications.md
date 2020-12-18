@@ -9,4 +9,4 @@ You can update your email notification settings at any time by:
 Alternatively, you can go directly to your Notification Settings here:
 https://fetlife.com/settings/notifications
 
-_Note: It can sometimes take up to 24 hours for changes to email notifications to take effect._
+_Note: It can sometimes take up to 24 hours for the changes to take effect._
