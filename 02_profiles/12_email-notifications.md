@@ -1,9 +1,12 @@
 # Email Notifications
 
-You can update your email notification settings in one of two ways.
+You can update your email notification settings at any time by:
 
-1. By going to your global email notifications settings tab in your account settings [here](https://fetlife.com/settings/notifications). 
-2. By using the checkbox on the discussions tab of a FetLife Group to select whether or not you get email notifications from that particular group.
+1. Visiting https://fetlife.com/settings/account
+2. Selecting the Notifications tab
+3. Using the checkboxes to choose the notifications you want
 
-Note: It can sometimes take up to 24 hours for changes to email notifications to take effect.
+Alternatively, you can go directly to your Notification Settings here:
+https://fetlife.com/settings/notifications
 
+_Note: It can sometimes take up to 24 hours for changes to email notifications to take effect._
