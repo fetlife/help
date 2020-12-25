@@ -3,7 +3,7 @@
 You can update your email notification settings at any time by:
 
 1. Visiting https://fetlife.com/settings/account
-2. Selecting the Notifications tab
+2. Selecting the "Notifications" tab
 3. Using the checkboxes to choose the notifications you wish to receive
 
 Alternatively, you can go directly to your Notification Settings here:
