@@ -1,13 +1,15 @@
 # How do I upload a picture to my profile?
 
-1. Go to the [upload new picture page](https://fetlife.com/pictures/new).
+You can upload a picture to your profile at any time by going to:
 
-2. Select  "Choose File”. 
-Find the content on your computer that you want to upload, select it, and submit it! 
+1. "What's on your kinky mind?" at the top of your Main Feed and selecting, "Upload Pic"
+2. The hamburger menu located at the upper right corner of any page and slecting, "Upload Picture"
+3. Your picture gallery and selecting "+ Upload a New Picture"
 
-3. Choose your options.
-You will see the settings for your new picture where you can add a caption or tags, make the picture your avatar and choose your privacy setting. 
+Alternatively, you can go directly to the upload page here: https://fetlife.com/pictures/new.
 
-4. Submit the picture!
-After a moment you'll be redirected to your newly uploaded picture page. Purty, innit?
+When you upload a new picture, you can:
 
+1. Add a caption and tags
+2. Select your privacy settings
+3. Choose to make the picture your avatar 
