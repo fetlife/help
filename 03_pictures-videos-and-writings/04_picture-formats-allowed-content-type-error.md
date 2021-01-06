@@ -1,3 +1,3 @@
-# I am getting a "Content type" error when uploading a picture - what formats are allowed?
+# What picture file types are accepted?
 
-Make sure the file extension of your picture is either: jpg, heic, gif, tiff, png, or a non-animated gif.
+We accept the following file types: jpg, heic, gif, tiff, png, and non-animated gifs.
