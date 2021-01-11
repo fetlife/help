@@ -1,14 +1,11 @@
 # How do I upload a picture to FetLife via email?
 
-Every member of FetLife is assigned a unique email address that can be used to email in pictures that will be uploaded to your FetLife profile. Copy the address to your phone's address book and then you can share the action on the spot!
+Every member of FetLife is assigned a unique email address that can be used to email one or more pictures directly into your gallery.
 
-You can upload more than one picture at a time by attaching multiple pics to the email, something you can't even do from the website.
+You can email picture(s) to your gallery at any time by opening your email client and sending a new email with the following information:
 
-Subject == Picture Caption - write the caption you'd like in the subject line of the email. Easy cheesy.
-
-Some things you should know:
-
-- There is a 25MB limit on email size. Depending on your phone, you should be good to send 5-10 pics in one email.
-- For security reasons, you need to send the email from the email address that is associated to your FetLife account. We wouldn't want just anyone posting pics to your profile. Would you?! I didn't think so! :-p
-- The address you upload FROM has to be the one you used to sign up for the site. The address you upload TO is shown on your ["upload a pic"](https://fetlife.com/pictures/new) page. [Update your email address here!](https://fetlife.com/settings/account/email)
-- In the Subject line of the email, if you start with "Private:", the picture will be posted as Friends Only. If you start with "Avatar:", it will be set as your avatar.
+- **TO**: Your unique FetLife email address found here: https://fetlife.com/settings/account
+- **SUBJECT**: The caption you wish to use
+    - If you want the picture set to friends only, put "Private:" before the caption
+    - If you want the picture to be your main picture, put "Avatar:" before the caption
+- **ATTACHMENT**: Picture(s) you wish to upload (25mb limit size)
