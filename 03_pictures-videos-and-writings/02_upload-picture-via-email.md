@@ -1,6 +1,6 @@
 # How do I upload a picture to FetLife via email?
 
-Every member of FetLife is assigned a unique email address that can be used to email 1 or more pictures directly into your gallery.
+Every member of FetLife is assigned a unique email address that can be used to email one or more pictures directly into your gallery.
 
 You can email picture(s) to your gallery at any time by:
 1. Opening your email client
