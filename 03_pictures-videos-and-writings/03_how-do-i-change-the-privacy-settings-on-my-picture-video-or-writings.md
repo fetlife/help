@@ -1,4 +1,4 @@
-# How do I change the privacy settings on my picture or video? 
+# How do I change the privacy settings on my picture, video or writings? 
 
 You can change privacy options on a picture or video at anytime by:
 
