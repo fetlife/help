@@ -1,4 +1,4 @@
-# How can I secure my account with a strong password?
+# How do I secure my account with a strong password?
 
 The following guidelines are essential for having a safe browsing experience across all password protected sites you use. We highly recommend doing all of the below:
 
