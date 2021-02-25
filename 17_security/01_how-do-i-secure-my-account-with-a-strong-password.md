@@ -10,4 +10,4 @@ The following guidelines are essential for having a safe browsing experience acr
   - The longer the password, the better! A minimum of 8 characters is a good start
   - Use a combination of letters (both capitalized and lowercase), numbers, and symbols
 
-Even when you manage your passwords well, there’s still a small chance of them being compromised (e.g. people with access to your devices). So we recommend securing your account even more by setting up [Two-Factor Authentication (2FA)](link to 2FA article).
+Even when you manage your passwords well, there’s still a small chance of them being compromised (e.g. people with access to your devices). So we recommend securing your account even more by setting up [Two-Factor Authentication (2FA)](https://fetlife.com/help/how-do-i-secure-my-account-by-setting-up-2fa).
