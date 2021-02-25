@@ -1,6 +1,6 @@
 # How do I secure my account by setting up Two-Factor Authentication (2FA)?
 
-Having a [strong password](link to password article) is the first line of defence to keeping your account safe. Two-Factor Authentication (2FA) is an additional layer of security that protects your account even more. We highly recommend all our members to use 2FA to keep your account and its contents safe!
+Having a [strong password](https://fetlife.com/help/how-do-i-secure-my-account-with-a-strong-password) is the first line of defence to keeping your account safe. Two-Factor Authentication (2FA) is an additional layer of security that protects your account even more. We highly recommend all our members to use 2FA to keep your account and its contents safe!
 
 In order to enable 2FA, please download and install an authentication application to your phone. Examples of these applications are [Authy](https://authy.com/download/) or Google Authenticator ([iOS](https://apps.apple.com/us/app/google-authenticator/id388497605) or [Android](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en_US&gl=US)).
 
