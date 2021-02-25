@@ -3,4 +3,6 @@
 You can delete a picture or video at anytime by:
 
 1. Visiting the "Options" menu link located beneath the caption of the picture or video that you want to delete
-2. Selecting “Delete” to delete the picture or video.  (If the picture is currently your Avatar (profile picture), you will need to change your avatar to a different picture before you can delete it)
+2. Selecting “Delete” to delete the picture or video  
+
+**Note**: If the picture is currently your Avatar (profile picture), you will need to change your avatar to a different picture before you can delete it.
