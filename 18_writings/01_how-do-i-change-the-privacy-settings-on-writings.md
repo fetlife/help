@@ -1,6 +1,11 @@
-# How do I change the privacy settings on my Writings?
+# How do I change the privacy of my Writings?
 
-You can change your privacy settings to 'Friends Only' or 'Kinksters' (everyone on Fetlife) at any time by:
+There are 2 different privacy settings for Writings:
+
+- FetLifers (Everyone on FetLife can read the writing.)
+- Just Friends
+
+You can change the privacy of a writing at any time by:
 
 1. Opening the Writing that you want to change
 2. Selecting the menu in the upper right corner (which looks like three dots)
