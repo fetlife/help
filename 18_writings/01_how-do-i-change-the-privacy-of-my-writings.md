@@ -7,7 +7,7 @@ There are 2 different privacy settings for Writings:
 
 You can change the privacy of a writing at any time by:
 
-1. Opening the Writing that you want to change
+1. Opening the Writing
 2. Selecting the menu in the upper right corner (which looks like three dots)
 3. Selecting "Edit"
 4. Selecting "Privacy" and then your preferred setting
