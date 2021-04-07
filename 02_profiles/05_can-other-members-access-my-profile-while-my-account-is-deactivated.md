@@ -25,12 +25,12 @@ Keep in mind that while deactivated, the following will still be accessible:
 - Group posts you've made
 - Events you've posted
 - Private messages you've sent to others (but they can't be responded to)
-- Group chats that you've started
-- Messages you've sent in group chats
+- Group conversations that you've started
+- Messages you've sent in group conversations
 - Comments you've made in groups and on other people's pics, vids, writings, etc.
 
 And you will still be listed in:
 
 - Group Members, for groups you are currently a member of
-- Group Members, for group chats you are currently a member of
+- Group Members, for group conversations you are currently a member of
 - Friends, followers, and following lists, of active members
