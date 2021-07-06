@@ -1,6 +1,8 @@
 # I don't want everyone to know where I live, what do I do?
 
-We recommend you choose a location that is in your general area, but not specific to your current location.
+You can choose to only show your city to friends by:
+1. Going to your [privacy settings](https://fetlife.com/settings/privacy#location).
+2. De-selecting the option for 'allow members other than my friends to see my city'
 
 If you really want to be off the radar, you can always just specify your country as "Antarctica”. There are more kinksters living in Antarctica than you'd think!
 
